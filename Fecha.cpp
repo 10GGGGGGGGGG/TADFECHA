@@ -1,12 +1,4 @@
-/***************************************************************************
-*  CABECERA:     INPLEMENTACION del TAD FECHA
-*
-*  DESCRIPCION : DECLARO las FUNCIONES MIENBRO DEL TAD
-* 
-*  PROFESOR :    RAFAEL MUÑOZ GIL
-*
-*  ALUMNO:       Christian Vladimir Sucuzhanay Arévalo
-* **************************************************************************/
+
 
 #include <cstdlib>
 #include <iostream>

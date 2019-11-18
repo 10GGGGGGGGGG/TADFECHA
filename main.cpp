@@ -1,14 +1,4 @@
-/***************************************************************************
-*  PROGRAMA:     Main, Manejo de Clases, creacion de objetos y Fechas
-*
-*  DESCRIPCION : Programa que crea una clase FECHA, hace uso del el y muestra
-* 
-*                el proceso del constructor y sobrecarga operador
-*
-*  PROFESOR :    RAFAEL MUÑOZ GIL
-*
-*  ALUMNO:       Christian Vladimir Sucuzhanay Arévalo
-* **************************************************************************/
+
 
 #include <cstdlib>
 #include <iostream>
@@ -27,7 +17,6 @@ using std::endl;
             cout<<"                                                                    "<<endl;
             cout<<" UNIVERSIDAD EUROPEA - ESCUELA DE ARQUITECTURA, INGENIERIA Y DISEÑO"<<endl;
             cout<<"_____________________________________________________________________"<<endl<<endl;
-            cout<<"Prof.Rafa Munoz G                       Alumno: Christian Sukuzhanay"<<endl<<endl<<endl;
             cout<<"            << PROGRAMA TIPOS DE DATOS ABSTRACTOS >>"<<endl<<endl<<endl;
     
             

@@ -1,14 +1,4 @@
-/***************************************************************************
-*  CABECERA:     INTERFAZ de la clase FECHA
-*
-*  DESCRIPCION : DECLARO la clase FECHA, creo constructor con la fecha del, 
-*                sistema,el TAD  fecha tiene DATOS MIEMBRO PRIVADOS
-*                tipo INT, mes, dia,anio y varias FUNCIONES requeridas
-*
-*  PROFESOR :    RAFAEL MUÑOZ GIL
-*
-*  ALUMNO:       Christian Vladimir Sucuzhanay Arévalo
-* **************************************************************************/
+
 #include <iostream>
 #ifndef FECHA_H
 #define FECHA_H
